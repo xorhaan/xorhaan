@@ -41,7 +41,7 @@ I am passionate about coding and competitive programming, where I enjoy solving 
 ### Competitive Programming
 
 <p align="left"> 
-<a href="https://leetcode.com/u/r0h-a-a-n/" target="_blank">
+<a href="https://leetcode.com/u/xorhaan/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
 <a href="https://codeforces.com/profile/xorhaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xorhaan" height="30" width="40" /></a>
@@ -59,7 +59,7 @@ I am passionate about coding and competitive programming, where I enjoy solving 
 
 <b>My LeetCode Stats</b>  
 
-<a href="https://leetcode.com/u/r0h-a-a-n/">
+<a href="https://leetcode.com/u/xorhaan/">
   <img src="https://leetcard.jacoblin.cool/r0h-a-a-n?theme=dark&font=JetBrains%20Mono&ext=contest" />
 </a>  
 
