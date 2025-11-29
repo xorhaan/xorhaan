@@ -53,14 +53,14 @@ I am passionate about coding and competitive programming, where I enjoy solving 
 
 <b>My GitHub Stats</b>  
 
-<a href="http://www.github.com/R0h-a-a-n"><img src="https://github-readme-stats.vercel.app/api?username=R0h-a-a-n&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="R0h-a-a-n's GitHub stats" /></a>  
+<a href="http://www.github.com/xorhaan"><img src="https://github-readme-stats.vercel.app/api?username=xorhaan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rohaan's GitHub stats" /></a>  
 
-<a href="http://www.github.com/R0h-a-a-n"><img src="https://github-readme-streak-stats.herokuapp.com/?user=R0h-a-a-n&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
+<a href="http://www.github.com/xorhaan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xorhaan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
 
 <b>My LeetCode Stats</b>  
 
 <a href="https://leetcode.com/u/xorhaan/">
-  <img src="https://leetcard.jacoblin.cool/r0h-a-a-n?theme=dark&font=JetBrains%20Mono&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/xorhaan?theme=dark&font=JetBrains%20Mono&ext=contest" />
 </a>  
 
 ---
@@ -69,17 +69,17 @@ I am passionate about coding and competitive programming, where I enjoy solving 
 
 <div align="center">
 
-<a href="https://github.com/R0h-a-a-n/Occlufix">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=R0h-a-a-n&repo=Occlufix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+<a href="https://github.com/xorhaan/Occlufix">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xorhaan&repo=Occlufix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
-<a href="https://github.com/R0h-a-a-n/Causana">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=R0h-a-a-n&repo=Causana&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+<a href="https://github.com/xorhaan/Causana">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xorhaan&repo=Causana&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
 
 <br/>
 
-<a href="https://github.com/R0h-a-a-n/convidat">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=R0h-a-a-n&repo=convidat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+<a href="https://github.com/xorhaan/convidat">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xorhaan&repo=convidat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
 
 </div>
