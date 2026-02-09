@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rohaan
 ===============================================================================================================================
 
-ML / Data Science / Backend
+Backend / ML 
 -----------------------
 
 I enjoy coding and competitive programming, focusing on solving challenging problems with efficient algorithms and structured reasoning. I love building complex backend and distributed systems, designing scalable, high-performance APIs and services with a strong emphasis on reliability and security. I am also interested in integrating machine learning into production systems, working on end-to-end pipelines and optimizations that ensure ML components are practical, scalable, and robust in real-world deployments.
