@@ -6,11 +6,11 @@ ML / Data Science / Backend
 
 I am passionate about coding and competitive programming, where I enjoy solving complex problems with efficient algorithms and logical precision. My interest in mathematics and chess strengthens my ability to think strategically, recognize patterns, and approach challenges with structured reasoning. On the development side, I focus on backend engineering, building scalable systems, APIs, and microservices that prioritize performance and reliability. At the same time, I am driven by machine learning engineering, where I work on designing models, optimization methods, and end-to-end pipelines that bring theory into impactful real-world applications.
 
-* 🌍  I'm based in India 
-* 🖥️  See my portfolio at [My Website](http://rohaan.tech)  
-* ✉️  You can contact me at [ssrohaan178@gmail.com](mailto:ssrohaan178@gmail.com)  
-* 🧠  I'm currently learning Spring Boot and Golang
-* 👥  I'm looking to collaborate on Kaggle competitions  
+*   I'm based in India 
+*   See my portfolio at [My Website](http://rohaan.tech)  
+*   You can contact me at [ssrohaan178@gmail.com](mailto:ssrohaan178@gmail.com)  
+*   I'm currently learning Spring Boot and Golang
+*   I'm looking to collaborate on Kaggle competitions  
 
 ---
 
@@ -57,29 +57,5 @@ I am passionate about coding and competitive programming, where I enjoy solving 
 
 <a href="http://www.github.com/xorhaan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xorhaan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
 
-<b>My LeetCode Stats</b>  
-
-<a href="https://leetcode.com/u/xorhaan/">
-  <img src="https://leetcard.jacoblin.cool/xorhaan?theme=dark&font=JetBrains%20Mono&ext=contest" />
-</a>  
-
 ---
 
-<b>Top Repositories</b>  
-
-<div align="center">
-
-<a href="https://github.com/xorhaan/Occlufix">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xorhaan&repo=Occlufix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-<a href="https://github.com/xorhaan/Causana">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xorhaan&repo=Causana&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-
-<br/>
-
-<a href="https://github.com/xorhaan/convidat">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xorhaan&repo=convidat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-
-</div>
