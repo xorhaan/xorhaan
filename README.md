@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ML / Data Science / Backend
 -----------------------
 
-I am passionate about coding and competitive programming, where I enjoy solving complex problems with efficient algorithms and logical precision. My interest in mathematics and chess strengthens my ability to think strategically, recognize patterns, and approach challenges with structured reasoning. On the development side, I focus on backend engineering, building scalable systems, APIs, and microservices that prioritize performance and reliability. At the same time, I am driven by machine learning engineering, where I work on designing models, optimization methods, and end-to-end pipelines that bring theory into impactful real-world applications.
+I enjoy coding and competitive programming, focusing on solving challenging problems with efficient algorithms and structured reasoning. I love building complex backend and distributed systems, designing scalable, high-performance APIs and services with a strong emphasis on reliability and security. I am also interested in integrating machine learning into production systems, working on end-to-end pipelines and optimizations that ensure ML components are practical, scalable, and robust in real-world deployments.
 
 *   I'm based in India 
-*   See my portfolio at [My Website](http://rohaan.tech)  
+*   See my portfolio at [rohaan.tech](http://rohaan.tech)  
 *   You can contact me at [ssrohaan178@gmail.com](mailto:ssrohaan178@gmail.com)  
 *   I'm currently learning Spring Boot and Golang
 *   I'm looking to collaborate on Kaggle competitions  
