@@ -14,7 +14,7 @@ I enjoy coding and competitive programming, focusing on solving challenging prob
 
 ---
 
-### Tech Stacks I have worked on
+### Technologies I Have Worked On
 
 <p align="left">
 
