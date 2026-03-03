@@ -8,9 +8,7 @@ I enjoy coding and competitive programming, focusing on solving challenging prob
 
 *   I'm based in India 
 *   See my portfolio at [rohaan.tech](http://rohaan.tech)  
-*   You can contact me at [ssrohaan178@gmail.com](mailto:ssrohaan178@gmail.com)  
 *   I'm currently learning Spring Boot and Golang
-*   I'm looking to collaborate on Kaggle competitions  
 
 ---
 
